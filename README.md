@@ -1,5 +1,5 @@
 # ML-Models-Portfolio
-Machine learning models and predictive analytics
+Machine learning models and predictive analytics-Projects
 
 1. **Projects regarding the EDA**.
 2. **Demand forecasting of Bike Rental**
